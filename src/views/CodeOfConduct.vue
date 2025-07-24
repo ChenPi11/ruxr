@@ -1,5 +1,5 @@
 <template>
-    <MarkdownViewer :url="'/CODE_OF_CONDUCT.md'" />
+    <MarkdownViewer :url="'/ruxr/CODE_OF_CONDUCT.md'" />
 </template>
 
 <script lang="ts">

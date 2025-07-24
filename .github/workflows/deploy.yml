@@ -34,14 +34,14 @@ jobs:
         run: |
           npm ci
 
-      - name: Build with Vue
+      - name: 🛠️ Build with Vue
         run: |
           npm run build
 
-      - name: Upload artifact
+      - name: ⬆️ Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: dist/ruxr
 
   deploy:
     environment:

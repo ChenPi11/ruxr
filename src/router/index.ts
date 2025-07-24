@@ -34,7 +34,9 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHashHistory(),
+    history: createWebHashHistory(
+        process.env.NODE_ENV === "production" ? "/ruxr" : process.env.BASE_URL
+    ),
     routes
 });
 

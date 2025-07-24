@@ -1,7 +1,7 @@
 import { ExtensionCard, FullExtensionInfo } from './extension';
 
-const EXTENSIONS_LIST_URL = '/pool/Release.json'
-const EXTENSIONS_INFO_URL = '/pool/{id}/rubisco.json'
+const EXTENSIONS_LIST_URL = '/ruxr/pool/Release.json'
+const EXTENSIONS_INFO_URL = '/ruxr/pool/{id}/rubisco.json'
 
 export async function fetchExtensions(): Promise<ExtensionCard[]> {
     const response = await fetch(EXTENSIONS_LIST_URL);

@@ -105,11 +105,11 @@ export class FullExtensionInfo {
     }
 
     getReadmeUrl(): string {
-        return `/pool/${this.id}/README.md`;
+        return `/ruxr/pool/${this.id}/README.md`;
     }
 
     getLicenseUrl(): string {
-        return `/pool/${this.id}/LICENSE`;
+        return `/ruxr/pool/${this.id}/LICENSE`;
     }
 }
 
