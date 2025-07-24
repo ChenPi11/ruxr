@@ -1,0 +1,8 @@
+{
+  "name": "ruxr",
+  "version": "0.1.0",
+  "description": "Rubisco Extension Repository is a collection of extensions for Rubisco.",
+  "maintainer": "ChenPi11 <wushengwuxi-msctinoulk@outlook.com>",
+  "license": "GPL-3.0",
+  "includes": ["hooks.json"]
+}

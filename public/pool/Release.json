@@ -1,0 +1,20 @@
+{
+  "pool": {
+    "subpackages": {
+      "name": "Subpackages",
+      "description": "Rubisco subpackage manager.",
+      "latest-version": "0.1.0",
+      "first-maintainer": "The C++ Plus Project",
+      "icon": "https://avatars.githubusercontent.com/u/130828670",
+      "tags": ["rubisco", "subpackages"]
+    },
+    "cppp-srcdist": {
+      "name": "Source distrobution builder",
+      "description": "Rubisco source package builder.",
+      "latest-version": "0.1.0",
+      "first-maintainer": "The C++ Plus Project",
+      "icon": "https://avatars.githubusercontent.com/u/130828670",
+      "tags": ["rubisco", "tarball", "srcpkg"]
+    }
+  }
+}

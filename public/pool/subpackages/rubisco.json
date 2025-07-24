@@ -1,0 +1,28 @@
+{
+  "name": "Subpackages",
+  "description": "Rubisco subpackage manager.",
+  "icon": "https://avatars.githubusercontent.com/u/130828670",
+  "maintainers": [
+    {
+      "name": "The C++ Plus Project",
+      "avatar": "https://avatars.githubusercontent.com/u/130828670",
+      "homepage": "https://github.com/cppp-project"
+    },
+    {
+      "name": "ChenPi11",
+      "avatar": "https://avatars.githubusercontent.com/u/102936596",
+      "homepage": "https://github.com/ChenPi11"
+    }
+  ],
+  "versions": [
+    {
+      "version": "0.1.0",
+      "date": "2025-07-24"
+    }
+  ],
+  "license": "GPL 3.0 License",
+  "homepage": "https://github.com/cppp-project/rubisco",
+  "tags": ["rubisco", "subpackages"],
+  "deps": [],
+  "latest-release": "https://github.com/cppp-project/rubisco/archive/refs/heads/main.zip"
+}

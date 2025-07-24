@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "lint": {
+      "exec": "npm run lint"
+    },
+    "build": {
+      "exec": "npm run build"
+    }
+  }
+}
